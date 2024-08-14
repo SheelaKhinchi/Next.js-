@@ -18,8 +18,9 @@ const Footer = () => {
               className="w-36 mr-5"
             />
             <p className="text-gray-600">
-              Doccure is one of India's most trusted pharmacies, dispensing quality medicines at reasonable prices to over 9 million happy customers
-            </p>
+  Doccure is one of India&apos;s most trusted pharmacies, dispensing quality medicines at reasonable prices to over 9 million happy customers
+</p>
+
           </div>
         </div>
 

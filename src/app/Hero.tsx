@@ -56,7 +56,7 @@ const Hero = () => {
       </div>
 
       {/* Promo Section */}
-      <div className="flex justify-center w-full mt-10 bg-white">
+      <div className="flex justify-center w-full mt-10">
         <section className="flex justify-center gap-5 p-5 max-w-6xl w-full">
           <div className="flex items-center p-5 rounded-lg shadow-md max-w-xs w-full bg-red-300">
             <div className="flex justify-between items-center w-full">

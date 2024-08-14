@@ -254,7 +254,7 @@ const HotDealsAndProducts = () => {
               className="w-15 h-15 mr-2"
             />
             <div className="product-content flex flex-col">
-              <h1 className="text-base mb-1">Women's Care</h1>
+              <h1 className="text-base mb-1">Women&apos;s Care</h1>
               <span className="text-sm">Calcium Tablets</span><br />
               <span className="text-sm">$170 <del>$200</del></span>
             </div>

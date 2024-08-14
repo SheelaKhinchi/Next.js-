@@ -41,7 +41,7 @@ const PromotionsAndProducts = () => {
               className="w-full h-32 object-cover"
             />
             <div className="product-info p-2 text-center">
-              <p className="category text-sm text-blue-600 mb-1">Women's Care</p>
+              <p className="category text-sm text-blue-600 mb-1">Women&apos;s Care</p>
               <h3 className="text-base mb-2 text-gray-800">Embryolisse</h3>
               <p className="delivery text-sm text-gray-600 mb-2">
                 Delivery: <strong>Tomorrow</strong>
